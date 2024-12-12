@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @casanova677
-- 👀 I’m interested in any Laravel Php Job 
+- 👀 I’m interested in any Laravel Php, Typescript Jobs
+- I am proficient in Typescript with focus on Next.js and Nest.js
 - 🌱 I’m currently learning Java and Solidity
 - 💞️ I’m looking to collaborate on any job opportunity or projects
 - 📫 How to reach me fofordile@gmail.com
