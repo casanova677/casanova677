@@ -5,7 +5,22 @@
 - 💞️ I’m looking to collaborate on any job opportunity or projects
 - 📫 How to reach me fofordile@gmail.com
 
-<!---
-casanova677/casanova677 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Skills
+Languages
+Tavascript, TypeScript, Php, Java
+
+Front-End Development
+react, nextjs, vuejs, tailwind-css, html, css, sass, jquery, Webpack
+
+Back-End Development
+nodejs, nestjs, Laravel, Django, websocket, Postman, MYSQL, MongoDB
+
+DevOps Development
+Apache, AWS, Github
+
+Backend as a Service (BaaS)
+firebase, netlify, vercel
+
+Testing
+jest
+
