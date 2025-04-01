@@ -9,6 +9,15 @@
 Languages
 Tavascript, TypeScript, Php, Java
 
+## Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background-color: #f39c12; color: white; padding: 10px; border-radius: 5px;">JavaScript</div>
+  <div style="background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">Python</div>
+  <div style="background-color: #e74c3c; color: white; padding: 10px; border-radius: 5px;">HTML</div>
+  <div style="background-color: #2ecc71; color: white; padding: 10px; border-radius: 5px;">CSS</div>
+</div>
+
 Front-End Development
 react, nextjs, vuejs, tailwind-css, html, css, sass, jquery, Webpack
 
