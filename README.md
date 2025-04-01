@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @casanova677
-- 👀 I’m interested in any Laravel Php, Typescript Jobs
+- 👋 Hi, I’m Francis,
+- 👀 I’m interested in any Laravel Php, Typescript Jobbs.
 - I am proficient in PHP, Typescript with focus on Next.js and Nest.js
 - 🌱 I’m currently learning Java and Solidity
 - 💞️ I’m looking to collaborate on any job opportunity or projects
